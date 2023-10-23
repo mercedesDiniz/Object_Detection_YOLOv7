@@ -1,0 +1,5 @@
+# ignora os arquivos com extensões 
+#.gitignore
+# ignora quaisquer diretórios chamados :
+model/yolov7/
+model/train-yolov7/
