@@ -27,3 +27,10 @@ pip install roboflow
 from roboflow import Roboflow
 rf = Roboflow(api_key="7kIgVpnvd8c5pAl1n1ad")
 ~~~
+
+4. Faça o download dos pessos iniciais para o diretorio /yolov7
+~~~bash
+# download COCO starting checkpoint
+cd /content/yolov7
+wget https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7_training.pt
+~~~
