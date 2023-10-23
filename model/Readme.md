@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ~~~bash
 pip install roboflow
 from roboflow import Roboflow
-rf = Roboflow(api_key="7kIgVpnvd8c5pAl1n1ad")
+rf = Roboflow(api_key="wwwwwwwwwww")
 ~~~
 
 4. Faça o download dos pessos iniciais para o diretorio /yolov7
